@@ -1,0 +1,58 @@
+body{ 
+  font-family: 'Akronim', cursive;
+  background:yellow;
+}
+.arial{ 
+    background: violet;
+    color: black;
+}
+.arial img {
+    width: 100px;
+}
+.radius {
+    background-color: cornsilk;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dashed whitesmoke;
+}
+.radius label {
+    background: bisque;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 15px aqua;
+}
+#camera,#result {
+    width: 310px;
+    border: 2px solid lawngreen;
+    height: 300px;
+    box-shadow: 5px 5px 15px aqua;
+
+}
+.radius button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 15px aqua;
+    border: 1px solid;
+}
+.footer {
+    margin-bottom: 50px;
+}
+.footer h4 {
+    background: beige;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 15px aqua;
+}
+.footer img {
+    width: 70px;
+}
+.copyright {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: chartreuse;
+    line-height: 3;
+    text-align: center;
+}
